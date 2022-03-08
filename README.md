@@ -1,2 +1,2 @@
-# bolita-sincronizada
-bolita sincronizada 35-V2
+# Movimiento sincrónico de la pelota
+Boiler plate para la pelota con movimiento sincróna
